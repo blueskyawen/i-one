@@ -19,6 +19,7 @@ export default {
 
 <style scoped lang="less">
 @import './style/config';
+@import '~vux/src/styles/reset.less';
 .one-app {
   margin: 0;
   padding: 0;
