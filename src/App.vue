@@ -11,7 +11,7 @@ export default {
   name: 'App',
   mounted () {
     setTimeout(() => {
-      this.$router.push('/home')
+      this.$router.push('/main')
     }, 1000)
   }
 }
